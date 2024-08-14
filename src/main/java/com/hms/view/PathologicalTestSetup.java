@@ -6,7 +6,7 @@ package com.hms.view;
 
 /**
  *
- * @author Hello World
+ * @author Nowsad
  */
 public class PathologicalTestSetup extends javax.swing.JFrame {
 
