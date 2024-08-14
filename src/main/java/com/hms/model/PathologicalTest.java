@@ -3,10 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.hms.model;
-
+/*This is a multiple line comment
+*/
 /**
  *
- * @author Hello World
+ * @author Nowsad
  */
 public class PathologicalTest {
     String title;

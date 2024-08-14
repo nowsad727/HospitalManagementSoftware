@@ -8,7 +8,7 @@ import com.hms.view.Home;
 
 /**
  *
- * @author Hello World
+ * @author Nowsad
  */
 public class HospitalManagementSoftware {
 
